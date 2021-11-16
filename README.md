@@ -1,0 +1,5 @@
+# About me Nikita
+
+This webpage is about me, Nikita.
+
+**IF THE WEBPAGE SHOWS THIS PGAE, "ABOUT ME" PAGE IS THEN UNDER CONSTRUCTION OR UNDER SERVICE**
